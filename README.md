@@ -29,4 +29,4 @@
 
 ## 🔗 在线试玩
 
-👉 [https://你的用户名.github.io/xingxiaoxiao/](https://你的用户名.github.io/xingxiaoxiao/)
+👉 https://zhajiajun.github.io/xingxiaoxiao/
